@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Chaos%20IAM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/cafecomsoldalab"><img src="https://img.shields.io/badge/Instagram-@cafecomsoldalab-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.youtube.com/@cafecomsoldalab"><img src="https://img.shields.io/badge/YouTube-Café%20com%20Solda-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=cybersantana83&label=visitas&color=39d353&style=for-the-badge" alt="visitas">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=cybersantana83.cybersantana83&left_color=black&right_color=green&left_text=visitas" alt="visitas">
 </p>
 
 ---
