@@ -37,6 +37,27 @@ Trabalho no cruzamento entre **identidade, infraestrutura e hardware**. De dia c
 
 <table>
 <tr>
+<td width="45%" valign="middle">
+  <a href="https://github.com/cybersantana83/cyd-badge"><img src="https://raw.githubusercontent.com/cybersantana83/cyd-badge/master/docs/img/badge-hero.jpg" width="100%" alt="CYD Badge"></a>
+</td>
+<td width="55%" valign="top">
+
+#### ☕ [CYD Badge](https://github.com/cybersantana83/cyd-badge) &nbsp;![novo](https://img.shields.io/badge/NOVO-39d353?style=flat-square)
+Crachá digital para a **Cheap Yellow Display (ESP32-2432S028)**, configurado inteiro pelo celular. Foto, nome, cargo e páginas com QR code para LinkedIn, Instagram, GitHub, WhatsApp, contato e Wi-Fi de convidados.
+
+- 📱 Painel web servido pela própria placa, sem computador e sem editar JSON
+- 🔒 Wi-Fi só liga com acesso físico, senha nova a cada vez e desliga sozinho
+- 🧩 Roda pelo Launcher, lado a lado com Bruce e Marauder
+- 🖨️ Case 3D Café com Solda incluso
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white) ![3D Print](https://img.shields.io/badge/Case%203D-00AE42?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
 #### 🐬 [ChaosID](https://github.com/cybersantana83/ChaosID)
@@ -116,8 +137,12 @@ Laboratório de pentest em Docker Compose: DVWA, Juice Shop, WebGoat, Kali, Meta
 ### 📊 Atividade
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cybersantana83&show_icons=true&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersantana83&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" height="165">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%">
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%">
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%">
 </p>
 
 <p align="center">
